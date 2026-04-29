@@ -18,3 +18,13 @@ print(f"Your email is {email}")
 age = 20
 quantity = 3
 num_of_students = 30
+
+#Float
+Price = 10.99
+gpa = 2.5
+Distance = 5.5
+
+print(f"the pizza is €{Price}")
+print(f"Your gpa is {gpa}")
+print(f"You ran {Distance}km")
+
