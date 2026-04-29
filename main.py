@@ -13,3 +13,8 @@ email = "Prabhnoorsingh85@gmail.com"
 print(f"Hello {First_name}")
 print(f"You like {food}")
 print(f"Your email is {email}")
+
+#Integers 
+age = 20
+quantity = 3
+num_of_students = 30
