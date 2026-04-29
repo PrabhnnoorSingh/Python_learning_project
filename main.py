@@ -3,6 +3,13 @@ print ("I like Pizza.")
 print ("It's really tasty.")
 
 #Variables
+
+#String
+
 First_name = "Prabhnoor "
+food = "pizza"
+email = "Prabhnoorsingh85@gmail.com"
 
 print(f"Hello {First_name}")
+print(f"You like {food}")
+print(f"Your email is {email}")
