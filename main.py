@@ -45,3 +45,21 @@ if is_online:
     print("You are online")
 else :
     print("You are offline")
+
+#Type casting
+
+name = "Prabhnoor "
+age = 20
+gpa = 3.2
+is_student = True
+
+#using typecasting
+age = float(age)
+print(age)
+gpa = int(gpa)
+age = str(age)
+#doesn't work
+#age += 1
+age += "1"
+print(age)
+print(gpa)
