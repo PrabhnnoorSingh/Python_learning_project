@@ -63,3 +63,7 @@ age = str(age)
 age += "1"
 print(age)
 print(gpa)
+
+#If we turn the name into a boolean it will tell us if the string is empty or not 
+name = bool(name)
+print (name)
