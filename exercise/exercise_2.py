@@ -5,4 +5,5 @@ price = float(input("what is the price of the item?: "))
 quantity = int(input("How many are you buying?: "))
 total = price * quantity
 
+print(f"Your cart has {quantity} X {Item}")
 print(f"the total price of the items in your cart is: {total}")
